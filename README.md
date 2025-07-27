@@ -100,9 +100,9 @@ Want to build your own model?
 
 ## 🙌 Acknowledgments
 
-* [MediaPipe](https://google.github.io/mediapipe/)
-* [OpenCV](https://opencv.org/)
-* [scikit-learn](https://scikit-learn.org/)
+* [MediaPipe]((https://ai.google.dev/edge/mediapipe/solutions/guide))
+* [OpenCV]((https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html))
+* [scikit-learn]((https://scikit-learn.org/stable/index.html))
 
 ```
 
